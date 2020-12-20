@@ -104,7 +104,7 @@ iframe {
 [ Contact more ]*/
 .contact100-more {
   width: calc(100% - 560px);
-  background-image: url("./Img/background/bosque-hd-482.jpg");
+   background: url("../Img/background/bosque-hd-482.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
